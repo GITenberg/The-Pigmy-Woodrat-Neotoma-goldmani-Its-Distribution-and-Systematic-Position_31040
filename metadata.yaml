@@ -1,0 +1,33 @@
+_repo: The-Pigmy-Woodrat-Neotoma-goldmani-Its-Distribution-and-Systematic-Position_31040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rainey, Dennis G.
+    gutenberg_agent_id: '34973'
+    url: http://www.gutenberg.org/2009/agents/34973
+  - agent_name: Baker, Rollin H. (Rollin Harold)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '34893'
+    url: http://www.gutenberg.org/2009/agents/34893
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31040'
+  lccn: '55063238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Wood rats'
+title: The Pigmy Woodrat, Neotoma goldmani, Its Distribution and Systematic Position
+url: http://www.gutenberg.org/ebooks/31040
